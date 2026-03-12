@@ -32,4 +32,4 @@ volcano_plot_CNRvsRNAseq.R
 - Generates volcano plot of Log2FC expression vs Sum Mute signal at all singificant genes from DEseq2 output as well as histone genes.
 - Dependencies: R
 
-Raw data available on NCBI GEO: GSE324623 (Cut&Run), GSE324624 (RNA-seq)
+Raw data available on NCBI GEO: GSE324623 (Cut&Run), GSE324624 (RNA-seq) upon publication
